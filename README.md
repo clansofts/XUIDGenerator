@@ -11,7 +11,6 @@ Go To your terminal
 mvn clean install
 
 and add the followng to the pom.xml
-
  <dependency>
             <groupId>org.xuid.gen.engine</groupId>
             <artifactId>XUIDGenEngine</artifactId>
